@@ -12,6 +12,8 @@ Update the below properties in `files/00-config.sh` file .
 
 ```
 export ENTITLEMENT_KEY=eyJhbG...........................e4Zog
+
+export WEBHOOK_PASSWORD=
 ```
 
 ## 2. Install AI-Manager

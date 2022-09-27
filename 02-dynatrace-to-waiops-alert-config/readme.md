@@ -40,12 +40,6 @@ This file needs to be updated with right mappings in future.
 
 7. Click on `Save Changes` to save the entry.
 
-![Dyna](images/image-00007.png)
-
-8. See the noticiation entry created.
-
-![Dyna](images/image-00008.png)
-
 8. See the noticiation entry created.
 
 ![Dyna](images/image-00008.png)
@@ -55,3 +49,6 @@ This file needs to be updated with right mappings in future.
 View the alert created for the test notification in WAIOps.
 
 ![Dyna](images/image-00009.png)
+
+
+Note: This payload to be improved to have all the columns populated in the Alert.
